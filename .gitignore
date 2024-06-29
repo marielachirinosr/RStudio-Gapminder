@@ -1,0 +1,14 @@
+# Ignore RStudio-specific files
+.Rproj.user/
+.Rhistory
+.RData
+
+# Ignore data files
+data/*.csv
+data/*.xlsx
+
+# Ignore log files
+*.log
+
+#OS 
+.DS_Store
